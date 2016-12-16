@@ -10,6 +10,7 @@ afterwards it promts you to enter specified tags
 example:
 
 python ripper.py test.html output.txt
+
 enter tags: h2 b table
 
 output: 
